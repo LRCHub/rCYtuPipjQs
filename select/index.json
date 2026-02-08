@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Roundabout",
+  "base_artist": "Ghostella",
+  "createdAt": "2026-02-08T04:18:03.333807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Roundabout",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/01_The_Roundabout_Enigma.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Roundabout",
+      "artist": "Enigma",
+      "has_synced": false,
+      "path": "select/02_The_Roundabout_Enigma.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Roundabout",
+      "artist": "Axe Riverboy",
+      "has_synced": false,
+      "path": "select/03_Roundabout_Axe_Riverboy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "English Roundabout",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/04_English_Roundabout_XTC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Roundabout",
+      "artist": "The Basics",
+      "has_synced": true,
+      "path": "select/05_Roundabout_The_Basics.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Roundabout (Live)",
+      "artist": "Paul Gilbert",
+      "has_synced": false,
+      "path": "select/06_Roundabout_(Live)_Paul_Gilbert.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Roundabout",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/07_Roundabout_Yes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Roundabout - Remastered Early Rough Mix",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/08_Roundabout_-_Remastered_Early_Rough_Mix_Yes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Roundabout (Early Rough Mix)",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/09_Roundabout_(Early_Rough_Mix)_Yes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Roundabout - 2003 Remaster",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/10_Roundabout_-_2003_Remaster_Yes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Beginning (Roundabout Mix) [2022 Remaster]",
+      "artist": "Seal",
+      "has_synced": false,
+      "path": "select/11_The_Beginning_(Roundabout_Mix)_[2022_Remaster]_Seal.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Beginning (Roundabout Mix) (2022 Remaster)",
+      "artist": "Seal",
+      "has_synced": false,
+      "path": "select/12_The_Beginning_(Roundabout_Mix)_(2022_Remaster)_Seal.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Roundabout",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/13_Roundabout_Yes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Roundabout (Single Edit)",
+      "artist": "Yes",
+      "has_synced": false,
+      "path": "select/14_Roundabout_(Single_Edit)_Yes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Roundabout (feat. 篭手切江(CV:広瀬裕也), 豊前江(CV:八代拓), 桑名江(CV:伊東健人), 松井江(CV:土岐隼一), 五月雨江(CV:狩野翔), 村雲江(CV:江口拓也), 稲葉江(CV:武内駿輔) & 富田江(CV:小野賢章))",
+      "artist": "Ghostella",
+      "has_synced": false,
+      "path": "select/pl_01_Roundabout_(feat._篭手切江(CV_広瀬裕也),_豊前江(CV_八代拓),_桑名江(CV_伊東健人),_松井江(CV_土岐隼一),_五月雨江(C_Ghostella.txt"
+    }
+  ]
+}
